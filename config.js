@@ -1,0 +1,1 @@
+const AWS_KEY = "DENA1234567890"
